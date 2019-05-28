@@ -1,0 +1,10 @@
+C:\Users\hcd\Documents\Visual Studio 2010\Projects\SwitchIpForApp\SwitchIpForAppService\bin\Debug\SwitchIpForAppService.exe
+C:\Users\hcd\Documents\Visual Studio 2010\Projects\SwitchIpForApp\SwitchIpForAppService\bin\Debug\SwitchIpForAppService.pdb
+C:\Users\hcd\Documents\Visual Studio 2010\Projects\SwitchIpForApp\SwitchIpForAppService\obj\x86\Debug\SwitchIpForAppService.Service1.resources
+C:\Users\hcd\Documents\Visual Studio 2010\Projects\SwitchIpForApp\SwitchIpForAppService\obj\x86\Debug\SwitchIpForAppService.csproj.GenerateResource.Cache
+C:\Users\hcd\Documents\Visual Studio 2010\Projects\SwitchIpForApp\SwitchIpForAppService\obj\x86\Debug\SwitchIpForAppService.exe
+C:\Users\hcd\Documents\Visual Studio 2010\Projects\SwitchIpForApp\SwitchIpForAppService\obj\x86\Debug\SwitchIpForAppService.pdb
+C:\Users\hcd\Documents\Visual Studio 2010\Projects\SwitchIpForApp\SwitchIpForAppService\bin\Debug\SwitchIpForAppService.exe.config
+C:\Users\hcd\Documents\Visual Studio 2010\Projects\SwitchIpForApp\SwitchIpForAppService\bin\Debug\NetworkCommon.dll
+C:\Users\hcd\Documents\Visual Studio 2010\Projects\SwitchIpForApp\SwitchIpForAppService\bin\Debug\NetworkCommon.pdb
+C:\Users\hcd\Documents\Visual Studio 2010\Projects\SwitchIpForApp\SwitchIpForAppService\obj\x86\Debug\SwitchIpForAppService.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\hcd\Documents\Visual Studio 2010\Projects\SwitchIpForApp\NetworkCommon\bin\Release\NetworkCommon.dll
+C:\Users\hcd\Documents\Visual Studio 2010\Projects\SwitchIpForApp\NetworkCommon\bin\Release\NetworkCommon.pdb
+C:\Users\hcd\Documents\Visual Studio 2010\Projects\SwitchIpForApp\NetworkCommon\obj\Release\NetworkCommon.dll
+C:\Users\hcd\Documents\Visual Studio 2010\Projects\SwitchIpForApp\NetworkCommon\obj\Release\NetworkCommon.pdb
+D:\projects\SwitchIpForApp\NetworkCommon\bin\Release\NetworkCommon.dll
+D:\projects\SwitchIpForApp\NetworkCommon\bin\Release\NetworkCommon.pdb
+D:\projects\SwitchIpForApp\NetworkCommon\obj\Release\NetworkCommon.dll
+D:\projects\SwitchIpForApp\NetworkCommon\obj\Release\NetworkCommon.pdb
+D:\projects\SwitchIpForApp\NetworkCommon\obj\Release\NetworkCommon.csprojAssemblyReference.cache
+D:\projects\SwitchIpForApp\NetworkCommon\obj\Release\NetworkCommon.csproj.CoreCompileInputs.cache

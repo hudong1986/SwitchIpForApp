@@ -1,0 +1,4 @@
+C:\Users\hcd\documents\visual studio 2010\Projects\SwitchIpForApp\NetworkCommon\bin\Debug\NetworkCommon.dll
+C:\Users\hcd\documents\visual studio 2010\Projects\SwitchIpForApp\NetworkCommon\bin\Debug\NetworkCommon.pdb
+C:\Users\hcd\documents\visual studio 2010\Projects\SwitchIpForApp\NetworkCommon\obj\Debug\NetworkCommon.dll
+C:\Users\hcd\documents\visual studio 2010\Projects\SwitchIpForApp\NetworkCommon\obj\Debug\NetworkCommon.pdb

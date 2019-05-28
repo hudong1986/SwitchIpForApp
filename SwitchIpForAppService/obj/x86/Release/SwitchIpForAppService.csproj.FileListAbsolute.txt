@@ -1,0 +1,23 @@
+C:\Users\hcd\Documents\Visual Studio 2010\Projects\SwitchIpForApp\SwitchIpForAppService\bin\Release\SwitchIpForAppService.exe.config
+C:\Users\hcd\Documents\Visual Studio 2010\Projects\SwitchIpForApp\SwitchIpForAppService\bin\Release\SwitchIpForAppService.exe
+C:\Users\hcd\Documents\Visual Studio 2010\Projects\SwitchIpForApp\SwitchIpForAppService\bin\Release\SwitchIpForAppService.pdb
+C:\Users\hcd\Documents\Visual Studio 2010\Projects\SwitchIpForApp\SwitchIpForAppService\bin\Release\NetworkCommon.dll
+C:\Users\hcd\Documents\Visual Studio 2010\Projects\SwitchIpForApp\SwitchIpForAppService\bin\Release\NetworkCommon.pdb
+C:\Users\hcd\Documents\Visual Studio 2010\Projects\SwitchIpForApp\SwitchIpForAppService\obj\x86\Release\SwitchIpForAppService.csprojResolveAssemblyReference.cache
+C:\Users\hcd\Documents\Visual Studio 2010\Projects\SwitchIpForApp\SwitchIpForAppService\obj\x86\Release\SwitchIpForAppService.Service1.resources
+C:\Users\hcd\Documents\Visual Studio 2010\Projects\SwitchIpForApp\SwitchIpForAppService\obj\x86\Release\SwitchIpForAppService.csproj.GenerateResource.Cache
+C:\Users\hcd\Documents\Visual Studio 2010\Projects\SwitchIpForApp\SwitchIpForAppService\obj\x86\Release\SwitchIpForAppService.exe
+C:\Users\hcd\Documents\Visual Studio 2010\Projects\SwitchIpForApp\SwitchIpForAppService\obj\x86\Release\SwitchIpForAppService.pdb
+D:\projects\SwitchIpForApp\SwitchIpForAppService\bin\Release\SwitchIpForAppService.exe.config
+D:\projects\SwitchIpForApp\SwitchIpForAppService\bin\Release\SwitchIpForAppService.exe
+D:\projects\SwitchIpForApp\SwitchIpForAppService\bin\Release\SwitchIpForAppService.pdb
+D:\projects\SwitchIpForApp\SwitchIpForAppService\bin\Release\NetworkCommon.dll
+D:\projects\SwitchIpForApp\SwitchIpForAppService\bin\Release\NetworkCommon.pdb
+D:\projects\SwitchIpForApp\SwitchIpForAppService\obj\x86\Release\SwitchIpForAppService.Service1.resources
+D:\projects\SwitchIpForApp\SwitchIpForAppService\obj\x86\Release\SwitchIpForAppService.csproj.GenerateResource.Cache
+D:\projects\SwitchIpForApp\SwitchIpForAppService\obj\x86\Release\SwitchIpForAppService.exe
+D:\projects\SwitchIpForApp\SwitchIpForAppService\obj\x86\Release\SwitchIpForAppService.pdb
+D:\projects\SwitchIpForApp\SwitchIpForAppService\obj\x86\Release\SwitchIpForAppService.ProjectInstaller.resources
+D:\projects\SwitchIpForApp\SwitchIpForAppService\obj\x86\Release\SwitchIpForAppService.csprojAssemblyReference.cache
+D:\projects\SwitchIpForApp\SwitchIpForAppService\obj\x86\Release\SwitchIpForAppService.csproj.CoreCompileInputs.cache
+D:\projects\SwitchIpForApp\SwitchIpForAppService\obj\x86\Release\SwitchIpForAppService.csproj.CopyComplete

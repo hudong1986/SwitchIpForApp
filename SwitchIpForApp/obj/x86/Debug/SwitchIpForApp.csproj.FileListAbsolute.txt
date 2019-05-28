@@ -1,0 +1,9 @@
+c:\users\hcd\documents\visual studio 2010\Projects\SwitchIpForApp\SwitchIpForApp\bin\Debug\SwitchIpForApp.exe.config
+c:\users\hcd\documents\visual studio 2010\Projects\SwitchIpForApp\SwitchIpForApp\bin\Debug\SwitchIpForApp.exe
+c:\users\hcd\documents\visual studio 2010\Projects\SwitchIpForApp\SwitchIpForApp\bin\Debug\SwitchIpForApp.pdb
+c:\users\hcd\documents\visual studio 2010\Projects\SwitchIpForApp\SwitchIpForApp\obj\x86\Debug\SwitchIpForApp.exe
+c:\users\hcd\documents\visual studio 2010\Projects\SwitchIpForApp\SwitchIpForApp\obj\x86\Debug\SwitchIpForApp.pdb
+C:\Users\hcd\documents\visual studio 2010\Projects\SwitchIpForApp\SwitchIpForApp\bin\Debug\NetworkCommon.dll
+C:\Users\hcd\documents\visual studio 2010\Projects\SwitchIpForApp\SwitchIpForApp\bin\Debug\NetworkCommon.pdb
+C:\Users\hcd\documents\visual studio 2010\Projects\SwitchIpForApp\SwitchIpForApp\obj\x86\Debug\SwitchIpForApp.csprojResolveAssemblyReference.cache
+C:\Users\hcd\documents\visual studio 2010\Projects\SwitchIpForApp\SwitchIpForApp\bin\Debug\app.manifest

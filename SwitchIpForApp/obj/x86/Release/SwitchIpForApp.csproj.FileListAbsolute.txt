@@ -1,0 +1,19 @@
+C:\Users\hcd\Documents\Visual Studio 2010\Projects\SwitchIpForApp\SwitchIpForApp\bin\Release\SwitchIpForApp.exe.config
+C:\Users\hcd\Documents\Visual Studio 2010\Projects\SwitchIpForApp\SwitchIpForApp\bin\Release\app.manifest
+C:\Users\hcd\Documents\Visual Studio 2010\Projects\SwitchIpForApp\SwitchIpForApp\bin\Release\SwitchIpForApp.exe
+C:\Users\hcd\Documents\Visual Studio 2010\Projects\SwitchIpForApp\SwitchIpForApp\bin\Release\SwitchIpForApp.pdb
+C:\Users\hcd\Documents\Visual Studio 2010\Projects\SwitchIpForApp\SwitchIpForApp\bin\Release\NetworkCommon.dll
+C:\Users\hcd\Documents\Visual Studio 2010\Projects\SwitchIpForApp\SwitchIpForApp\bin\Release\NetworkCommon.pdb
+C:\Users\hcd\Documents\Visual Studio 2010\Projects\SwitchIpForApp\SwitchIpForApp\obj\x86\Release\SwitchIpForApp.exe
+C:\Users\hcd\Documents\Visual Studio 2010\Projects\SwitchIpForApp\SwitchIpForApp\obj\x86\Release\SwitchIpForApp.pdb
+D:\projects\SwitchIpForApp\SwitchIpForApp\bin\Release\SwitchIpForApp.exe.config
+D:\projects\SwitchIpForApp\SwitchIpForApp\obj\x86\Release\SwitchIpForApp.exe
+D:\projects\SwitchIpForApp\SwitchIpForApp\obj\x86\Release\SwitchIpForApp.pdb
+D:\projects\SwitchIpForApp\SwitchIpForApp\bin\Release\app.manifest
+D:\projects\SwitchIpForApp\SwitchIpForApp\bin\Release\SwitchIpForApp.exe
+D:\projects\SwitchIpForApp\SwitchIpForApp\bin\Release\SwitchIpForApp.pdb
+D:\projects\SwitchIpForApp\SwitchIpForApp\bin\Release\NetworkCommon.dll
+D:\projects\SwitchIpForApp\SwitchIpForApp\bin\Release\NetworkCommon.pdb
+D:\projects\SwitchIpForApp\SwitchIpForApp\obj\x86\Release\SwitchIpForApp.csprojAssemblyReference.cache
+D:\projects\SwitchIpForApp\SwitchIpForApp\obj\x86\Release\SwitchIpForApp.csproj.CoreCompileInputs.cache
+D:\projects\SwitchIpForApp\SwitchIpForApp\obj\x86\Release\SwitchIpForApp.csproj.CopyComplete
